@@ -3,10 +3,18 @@
 .debug {
   background-color: rgb(44, 62, 80);
   border:1px solid black;
-  height: 100px;
+  min-height: 100px;
   color: white;
 }
 
+.d-flex {
+  display: flex;
+}
+
+
+.h200 {
+  height: 200px;
+}
 .h300 {
   height: 300px;
 }
@@ -16,6 +24,39 @@
   text-align: center;
 }
 
+.text-center {
+  text-align: center;
+}
+
+.box {
+  min-height: 200px;
+  background-color: yellowgreen;
+  border: 1px solid black;
+  margin: 15px;
+
+}
+
+.freelancer {
+  background-color: rgb(26, 188, 156);
+}
+
+.about-box {
+  min-height: 200px;
+  background-color: rgb(50, 143, 205);
+  border: 1px solid black;
+}
+
+.info-point {
+  background-color: rgb(58, 84, 109);
+  padding: 25px 0;
+
+}
+
+.info-point-box {
+  min-height: 200px;
+  background-color: rgb(205, 50, 89);
+  border: 1px solid black;
+}
 
 
 
