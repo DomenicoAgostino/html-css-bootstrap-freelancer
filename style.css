@@ -1,0 +1,22 @@
+/* DEBUG */
+
+.debug {
+  background-color: rgb(44, 62, 80);
+  border:1px solid black;
+  height: 100px;
+  color: white;
+}
+
+.h300 {
+  height: 300px;
+}
+
+.jumbotron{
+  background-color: rgb(26, 188, 156);
+  text-align: center;
+}
+
+
+
+
+/* DEBUG */
